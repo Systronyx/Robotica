@@ -1,1 +1,1 @@
-# Systronyx-Compnentes-Eletronicos
+# Systronyx-Componentes-Eletronicos
